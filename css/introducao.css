@@ -1,0 +1,99 @@
+.intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.intro-titulo {
+    padding: 50px 20px;
+}
+
+.intro-titulo-nome {
+    font-size: 2rem;
+    color: #fff;
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.meu-nome {
+    font-size: 4rem;
+    color: #67ECFB;
+    text-transform: uppercase;
+}
+
+.meu-nome::after{
+    content: '';
+    position: relative;
+    border-right: 4px solid #fff;
+    animation: piscar 700ms linear infinite;
+}
+
+@keyframes piscar{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
+
+.intro-redessociais {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 5px;
+}
+
+.intro-linkedin a {
+    border: 1px solid #67ECFB;
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 4px;
+
+}
+
+.intro-linkedin a:hover,
+.intro-git a:hover {
+    box-shadow: #67ECFB 0px 5px 15px;
+    transition: 0.3s;
+}
+
+.intro-linkedin i,
+.intro-git i {
+    margin-right: 10px;
+}
+
+.intro-git a {
+    border: 1px solid #67ECFB;
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.intro-img {
+    text-align: center;
+    align-self: center;
+    color: #fff;
+}
+
+
+
+
+
+@media (max-width:800px) {
+    .meu-nome {
+        font-size: 3rem;
+    }
+
+    .intro-git a,
+    .intro-linkedin a {
+        padding: 15px 15px;
+    }
+}
+
+@media (max-width:600px) {
+    .intro {
+
+        grid-template-columns: 1fr;
+    }
+
+    .intro-titulo-nome {
+        text-align: center;
+    }
+}
