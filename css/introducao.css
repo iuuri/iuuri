@@ -145,3 +145,16 @@
         text-align: center;
     }
 }
+
+@media (max-width:400px) {
+    .intro-titulo-nome {
+        font-size: 1.2rem;
+    }
+
+    .intro-titulo::before {
+        width: 9%;
+        height: 159%;
+        bottom: -83px;
+        left: 152px;
+    }
+}
