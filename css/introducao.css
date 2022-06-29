@@ -151,6 +151,10 @@
         font-size: 1.2rem;
     }
 
+    .meu-nome {
+        font-size: 2rem;
+    }
+
     .intro-titulo::before {
         width: 9%;
         height: 159%;
