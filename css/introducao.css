@@ -141,6 +141,11 @@
         padding: 35px 35px;
     }
 
+    .meu-nome {
+        font-size: 2rem;
+    }
+
+
     .intro-titulo-nome {
         text-align: center;
     }
@@ -151,9 +156,6 @@
         font-size: 1.2rem;
     }
 
-    .meu-nome {
-        font-size: 2rem;
-    }
 
     .intro-titulo::before {
         width: 9%;
