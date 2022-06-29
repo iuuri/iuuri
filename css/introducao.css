@@ -1,11 +1,48 @@
 .intro {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    display: flex;
+
 }
 
 .intro-titulo {
-    padding: 50px 20px;
+    padding: 70px 70px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    background-color: #002333;
+
 }
+
+.intro-titulo::before {
+    content: "";
+    position: absolute;
+    width: 9%;
+    height: 194%;
+    background: linear-gradient(#67e7fb, red);
+    animation: animate 5s linear infinite;
+    bottom: -190px;
+    left: 268px;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.intro-titulo::after {
+    content: "";
+    position: absolute;
+    inset: 4px;
+    background-color: #002333;
+    border-radius: 20px;
+}
+
+
 
 .intro-titulo-nome {
     font-size: 2rem;
@@ -14,6 +51,8 @@
     line-height: 1.5;
     font-weight: 100;
     text-transform: uppercase;
+    position: relative;
+    z-index: 10;
 }
 
 .meu-nome {
@@ -22,22 +61,32 @@
     text-transform: uppercase;
 }
 
-.meu-nome::after{
+.meu-nome::after {
     content: '';
     position: relative;
     border-right: 4px solid #fff;
     animation: piscar 700ms linear infinite;
 }
 
-@keyframes piscar{
-    from{opacity: 0;}
-    to{opacity: 1;}
+@keyframes piscar {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 .intro-redessociais {
     display: flex;
     justify-content: space-evenly;
     padding: 50px 5px;
+}
+
+.intro-linkedin,
+.intro-git {
+    z-index: 10;
 }
 
 .intro-linkedin a {
@@ -88,9 +137,8 @@
 }
 
 @media (max-width:600px) {
-    .intro {
-
-        grid-template-columns: 1fr;
+    .intro-titulo {
+        padding: 35px 35px;
     }
 
     .intro-titulo-nome {
