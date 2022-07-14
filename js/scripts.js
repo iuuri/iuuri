@@ -1,3 +1,4 @@
+// Script efeito maquina de digitar nome
 const el = document.querySelector('.meu-nome');
 const text = "Iuri Souza";
 const interval = 80;
@@ -7,17 +8,21 @@ function showText(el, text, interval) {
 
     const typer = setInterval(() => {
 
-if(!char.length){
-    return clearInterval(typer);
-}
+        if (!char.length) {
+            return clearInterval(typer);
+        }
 
-const next = char.pop();
+        const next = char.pop();
 
-el.innerHTML += next;
+        el.innerHTML += next;
 
-    } , interval);
+    }, interval);
 
 
 }
 
 showText(el, text, interval);
+
+
+
+// // Scrip acordeon experiencias

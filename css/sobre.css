@@ -51,6 +51,10 @@
     border-bottom: 1px solid #67ECFB;
 }
 
+.sobre-texto i{
+    margin-right: 10px;
+}
+
 @media (max-width:800px) {
     .container {
         max-width: 750px;
