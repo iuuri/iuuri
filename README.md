@@ -18,4 +18,5 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 
 . Abaixo deixarei alguns projetos de estudos: </br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iuuri)](https://github.com/anuraghazra/github-readme-stats)
