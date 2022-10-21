@@ -5,5 +5,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 
 # Sobre mim
 
-. 📚 Graduando em Ads e cursando Sistemas para Internet
+. 📚  Graduando em Analise e Desenvolvimento de Sistemas. 
+. 🧑‍   Atualmente trabalhando como Analista de Suporte e Infraestrutura - Acostumando em resolver (ou causar) problemas. 
+. 
 
