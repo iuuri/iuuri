@@ -12,7 +12,8 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 # Conhecimentos 
 
 . HTML / CSS / JS - Já desenvolvi alguns projetos de landing page. </br> 
-. 
+. Noções em teste de componente, integração, funcionais, de aceitação e exploratorios.</br>
+. Noções de como realizar um Bug Report. 
 
 # Estudos 
 
