@@ -17,6 +17,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 
 # Estudos 
 
+. <a href="https://drive.google.com/drive/u/0/folders/1XMG2HLILQ5WZSdaH30V65BLcropGLbPb" target="_blank">Clique aqui<a/> e veja meus certificados. </br></br>
 . Abaixo deixarei alguns projetos de estudos: </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=Estudos_QA&theme=cobalt)](https://github.com/iuuri/Estudos_QA)
