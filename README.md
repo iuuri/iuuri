@@ -13,7 +13,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 
 . Noções em teste de componente, integração, funcionais, de aceitação e exploratórios.</br>
 . Noções de como realizar um Bug Report. </br>
-. Noções de particionamento de equivalencia, valor limete e tabela de decisções.</br>
+. Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
 . HTML / CSS / JS - Já desenvolvi alguns projetos de landing page. </br> 
 
 # Estudos 
