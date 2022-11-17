@@ -9,12 +9,13 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 . 🧑‍   Atualmente trabalhando como Analista de Suporte e Infraestrutura - Acostumando em resolver (ou causar) problemas. </br>
 . 📖  Estou realizando cursos livres para obter habilidades e experiencia na area de QA, visando ter minha primeira oportunidade na área. </br> 
 
-# Conhecimentos 
+# Conhecimentos obtido através de estudos:
 
-. Noções em teste de componente, integração, funcionais, de aceitação e exploratórios.</br>
-. Noções de como realizar um Bug Report. </br>
+. Teste de componente, integração, funcionais, de aceitação e exploratórios.</br>
+. Como realizar um Bug Report. </br>
 . Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
-. Noções em criação de cenário de testes e análise de risco.</br>
+. Criação de cenário de testes e análise de risco.</br>
+. Noções em metodologias ágeis, Scrum, Kanban, User Stories. </br>
 . HTML / CSS / JS - Já desenvolvi alguns projetos de landing page. </br> 
 
 # Estudos 
