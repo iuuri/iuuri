@@ -16,7 +16,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 . Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
 . Criação de cenário de testes e análise de risco.</br>
 . Noções em metodologias ágeis, Scrum, Kanban, User Stories. </br>
-. HTML / CSS / JS - Já desenvolvi alguns projetos de landing page. </br> 
+. HTML / CSS / JS - Já desenvolvi alguns projetos pessoais para estudos e pequenas partes de landing page como freelancer. </br> 
 
 # Estudos 
 
