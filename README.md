@@ -12,6 +12,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 # Conhecimentos obtido através de estudos:
 
 . Teste de componente, integração, funcionais, de aceitação e exploratórios.</br>
+. Noções em escrever cenarios de testes com BDD em Cucumber.  
 . Como realizar um Bug Report. </br>
 . Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
 . Criação de cenário de testes e análise de risco.</br>
