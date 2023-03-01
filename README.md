@@ -7,7 +7,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 
 . 📚  Graduando em Analise e Desenvolvimento de Sistemas. </br>
 . 🧑‍   Atualmente trabalhando como Analista de Suporte e Infraestrutura - Acostumando em resolver (ou causar) problemas. </br>
-. 📖  Estou realizando cursos livres para obter habilidades e experiencia na area de QA, visando ter minha primeira oportunidade na área. </br> 
+. 📖  Futuro Analista de Testes e Qualidade de Software. Estou realizando cursos livres para obter habilidades e experiencia na area de QA, visando ter minha primeira oportunidade na área. </br> 
 
 # Conhecimentos obtido através de estudos:
 
