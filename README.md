@@ -15,7 +15,7 @@ Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻�
 . Noções em testes E2E em Front End utilizando Cypress com Node.Js e testes de API com Postman. </br>
 . Noções em escrever cenarios de testes com BDD em Cucumber.  </br>
 . Como realizar um Bug Report. </br>
-. Criação de Mapa Mental.
+. Criação de Mapa Mental. </br>
 . Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
 . Criação de cenário de testes e análise de risco.</br>
 . Noções em metodologias ágeis, Scrum, Kanban, User Stories. </br>
