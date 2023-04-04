@@ -1,25 +1,26 @@
 # Olá 👋 tudo bem?
 
 Bem-vindo ao meu perfil! </br>
-Eu sou Iuri Souza, estudante de Qualidade e Teste de Software 🚀🚀👨🏻‍💻
+Eu sou Iuri Souza, estudante e futuro Analista de Qualidade e Teste de Software 🚀🚀👨🏻‍💻
 
 # Sobre mim
 
 . 📚  Graduando em Analise e Desenvolvimento de Sistemas. </br>
-. 🧑‍   Atualmente trabalhando como Analista de Suporte e Infraestrutura - Acostumando em resolver (ou causar) problemas. </br>
+. 🧑‍  Atualmente trabalhando como Analista de Suporte e Infraestrutura - Acostumando em resolver (ou causar) problemas. </br>
 . 📖  Futuro Analista de Testes e Qualidade de Software. Estou realizando cursos livres para obter habilidades e experiencia na area de QA, visando ter minha primeira oportunidade na área. </br> 
 
-# Conhecimentos obtido através de estudos:
+# Conhecimentos:
 
-. Teste de componente, integração, funcionais, de aceitação e exploratórios.</br>
-. Noções em testes E2E em Front End utilizando Cypress com Node.Js e testes de API com Postman. </br>
-. Noções em escrever cenarios de testes com BDD em Cucumber.  </br>
-. Como realizar um Bug Report. </br>
-. Criação de Mapa Mental. </br>
-. Noções de particionamento de equivalencia, valor limite e tabela de decisções.</br>
-. Criação de cenário de testes e análise de risco.</br>
-. Noções em metodologias ágeis, Scrum, Kanban, User Stories. </br>
-. Noções em SQL. </br>
+. Noções em Teste de componente, integração, funcionais, de aceitação e exploratórios;</br>
+. Testes E2E em Front End utilizando Cypress com Node.Js; </br>
+. Testes de API com Postman e criação de scrips com JUnit; </br>
+. Escrever cenarios de testes com BDD em Cucumber;  </br>
+. Realizar um Bug Report; </br>
+. Criação de Mapa Mental com xMind; </br>
+. Particionamento de equivalencia, valor limite e tabela de decisções;</br>
+. Criação de cenário de testes e análise de risco;</br>
+. Noções em metodologias ágeis, Scrum, Kanban, User Stories; </br>
+. Noções em SQL; </br>
 . HTML / CSS / JS - Já desenvolvi alguns projetos pessoais para estudos e pequenas partes de landing page como freelancer. </br> 
 
 # Estudos 
