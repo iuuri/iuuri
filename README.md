@@ -11,17 +11,20 @@ Eu sou Iuri Souza, estudante e futuro Analista de Qualidade e Teste de Software 
 
 # Conhecimentos:
 
-. Noções em Teste de componente, integração, funcionais, de aceitação e exploratórios;</br>
-. Testes E2E em Front End utilizando Cypress com Node.Js; </br>
-. Testes de API com Postman e criação de scrips com JUnit; </br>
-. Escrever cenarios de testes com BDD em Cucumber;  </br>
-. Realizar um Bug Report; </br>
-. Criação de Mapa Mental com xMind; </br>
-. Particionamento de equivalencia, valor limite e tabela de decisções;</br>
-. Criação de cenário de testes e análise de risco;</br>
-. Noções em metodologias ágeis, Scrum, Kanban, User Stories; </br>
-. Noções em SQL; </br>
-. HTML / CSS / JS - Já desenvolvi alguns projetos pessoais para estudos e pequenas partes de landing page como freelancer. </br> 
+.Testes Manuais</br>
+.Noções em testes funcionais e não funcionais, de aceitação, exploratórios e testes em API com Postman.</br>
+
+.Automação de Testes
+.Automação de testes E2E em Front End utilizando Java e JavaScript. Automação de testes de API em Java.</br>
+
+.Frameworks e Ferramentas
+.Visual Studio Code, Intellij Idea, Cypress, Junit, Selenium Webdriver, Rest Assured, Jackson Databind, Postman, Cucumber, Jmeter, TestComplete.</br>
+
+.Metodologias </br>
+.Noções em metodologias ágeis, Scrum, Kanban, User Stories.</br>
+
+.Complementares</br>
+.Noções em SQL, HTML, CSS e GitHub.</br>
 
 # Estudos 
 
