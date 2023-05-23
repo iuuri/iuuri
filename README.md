@@ -14,10 +14,10 @@ Eu sou Iuri Souza, estudante e futuro Analista de Qualidade e Teste de Software 
 .Testes Manuais</br>
 .Noções em testes funcionais e não funcionais, de aceitação, exploratórios e testes em API com Postman.</br>
 
-.Automação de Testes
+.Automação de Testes</br>
 .Automação de testes E2E em Front End utilizando Java e JavaScript. Automação de testes de API em Java.</br>
 
-.Frameworks e Ferramentas
+.Frameworks e Ferramentas</br>
 .Visual Studio Code, Intellij Idea, Cypress, Junit, Selenium Webdriver, Rest Assured, Jackson Databind, Postman, Cucumber, Jmeter, TestComplete.</br>
 
 .Metodologias </br>
