@@ -35,4 +35,5 @@ Eu sou Iuri Souza, estudante e futuro Analista de Qualidade e Teste de Software 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=cypress&theme=cobalt)](https://github.com/iuuri/cypress)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=api&theme=cobalt)](https://github.com/iuuri/api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=java&theme=cobalt)](https://github.com/iuuri/java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=codeceptjs&theme=cobalt)](https://github.com/iuuri/codeceptjs)
 
