@@ -1,31 +1,27 @@
-# Olá 👋 tudo bem?
+# Olá 👋 Bem-vindo ao meu perfil!
 
-Bem-vindo ao meu perfil! </br>
-Me chamo Iuri 👨🏻‍💻
+Eu sou **Iuri Souza** 👨🏻‍💻, apaixonado por tecnologia e focado no desenvolvimento de **automações** e **RPA**. Transformo processos repetitivos em soluções eficientes usando ferramentas como **Python**, **UiPath**, e **Automation Anywhere**.
 
-# Sobre mim
+## Sobre mim:
+- 🎓 **Pós-Graduado** em Análise, Projeto e Gerência de Sistemas.<br>
+- 🎓 **Pós-Graduado** em Engenharia de Software com ênfase em Qualidade e Teste de Software.<br>
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.<br>
+- 💼 Atualmente atuando como **Analista de Suporte e Infraestrutura**.
 
-. 📚  Pós Graduação em Análise, Projeto e Gerência de Sistemas. </br>
-. 📚  Pós Graduação em Engenharia de software com ênfase em qualidade e teste de software. </br>
-. 📚  Graduando em Analise e Desenvolvimento de Sistemas. </br>
-. 🧑‍  Atualmente trabalhando como Analista de Suporte e Infraestrutura. </br>
+## O que eu faço:
+- 🔧 **Desenvolvimento de Automação**: Automação de tarefas repetitivas utilizando **Python**, **Selenium** e **UiPath**.<br>
+- 🔍 **Web Scraping**: Extração automatizada de dados de sites para gerar relatórios e insights.<br>
+- 📊 **Manipulação de Planilhas**: Automação de manipulação e análise de dados em **Excel** usando **Python**.<br>
+- 🖥️ **RPA (Robotic Process Automation)**: Criação de robôs de automação para simplificar tarefas empresariais, como download de relatórios e envio de e-mails.
 
-# Conhecimentos:
+## Tecnologias e Ferramentas:
+- **Linguagens de Programação**: Python.<br>
+- **Ferramentas de Automação**: UiPath, Selenium, Automation Anywhere, PyAutoGUI.<br>
+- **Manipulação de Planilhas**: OpenPyXL, PyWin32, Pandas.<br>
+- **Frameworks e Bibliotecas**: Selenium WebDriver, BeautifulSoup, Requests.<br>
+- **Versionamento de Código**: Git, GitHub.<br>
+- **Metodologias Ágeis**: Scrum, Kanban.
 
-.Testes Manuais</br>
-.Noções em testes funcionais e não funcionais, de aceitação, exploratórios e testes em API com Postman.</br>
-
-.Automação de Testes</br>
-.Automação de testes E2E em Front End utilizando Java e JavaScript. Automação de testes de API em Java.</br>
-
-.Frameworks e Ferramentas</br>
-.Visual Studio Code, Intellij Idea, Cypress, Junit, Selenium Webdriver, Rest Assured, Jackson Databind, Postman, Cucumber, Jmeter, TestComplete.</br>
-
-.Metodologias </br>
-.Noções em metodologias ágeis, Scrum, Kanban, User Stories.</br>
-
-.Complementares</br>
-.Noções em SQL, HTML, CSS e GitHub.</br>
-
-
-
+## Vamos nos conectar!
+- [LinkedIn](https://www.linkedin.com/in/iuri-souza/)<br>
+- Email: iuri.souzasantos@gmail.com
