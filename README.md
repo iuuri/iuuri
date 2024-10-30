@@ -5,8 +5,8 @@ Eu sou **Iuri Souza** 👨🏻‍💻, apaixonado por tecnologia e focado no des
 ## Sobre mim:
 - 🎓 **Pós-Graduado** em Análise, Projeto e Gerência de Sistemas.<br>
 - 🎓 **Pós-Graduado** em Engenharia de Software com ênfase em Qualidade e Teste de Software.<br>
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.<br>
-- 💼 Atualmente atuando como **Analista de Suporte e Infraestrutura**.
+- 🎓 **Graduando em Análise** e Desenvolvimento de Sistemas.<br>
+- 💼 Atualmente atuando como **Analista de Suporte e Infraestrutura de Redes**.
 
 ## O que eu faço:
 - 🔧 **Desenvolvimento de Automação**: Automação de tarefas repetitivas utilizando **Python**, **Selenium** e **UiPath**.<br>
@@ -18,7 +18,7 @@ Eu sou **Iuri Souza** 👨🏻‍💻, apaixonado por tecnologia e focado no des
 - **Linguagens de Programação**: Python.<br>
 - **Ferramentas de Automação**: UiPath, Selenium, Automation Anywhere, PyAutoGUI.<br>
 - **Manipulação de Planilhas**: OpenPyXL, PyWin32, Pandas.<br>
-- **Frameworks e Bibliotecas**: Selenium WebDriver, BeautifulSoup, Requests.<br>
+- **Frameworks e Bibliotecas**: Selenium WebDriver, Scrapy, Requests.<br>
 - **Versionamento de Código**: Git, GitHub.<br>
 - **Metodologias Ágeis**: Scrum, Kanban.
 
