@@ -16,9 +16,8 @@ Eu sou **Iuri Souza** 👨🏻‍💻, apaixonado por tecnologia e focado no des
 
 ## Tecnologias e Ferramentas:
 - **Linguagens de Programação**: Python.<br>
-- **Ferramentas de Automação**: UiPath, Selenium, Automation Anywhere, PyAutoGUI.<br>
-- **Manipulação de Planilhas**: OpenPyXL, PyWin32, Pandas.<br>
-- **Frameworks e Bibliotecas**: Selenium WebDriver, Scrapy, Requests.<br>
+- **Ferramentas de Automação**: UiPath, Automation Anywhere.<br>
+- **Frameworks e Bibliotecas**: Selenium WebDriver, Scrapy, Smtplib, PyAutogui, OpenPyXL, Pandas.<br>
 - **Versionamento de Código**: Git, GitHub.<br>
 - **Metodologias Ágeis**: Scrum, Kanban.
 
