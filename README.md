@@ -22,7 +22,7 @@ Aqui compartilho meus estudos e desafios em **ADVPL**:
 
 <div align="center">
 
-[![Repositório ADVPL Estudos](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=advpl-estudos&theme=dracula)](https://github.com/iuuri/PROTHEUS-ADVPL)
+[![Repositório ADVPL Estudos](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=PROTHEUS-ADVPL&theme=dracula)](https://github.com/iuuri/PROTHEUS-ADVPL)
 
 </div>
 
