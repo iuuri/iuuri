@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 👋 Eu sou [Iuri]
 
-<!--
-**iuuri/iuuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** Desenvolvedor ADVPL/Protheus em formação  
+💻 Estudando **ADVPL | Protheus | SQL | Lógica de Programação | Python**  
+🚀 Buscando minha primeira oportunidade na área de **Desenvolvimento ADVPL/ERP TOTVS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- ADVPL / Protheus (ERP TOTVS)
+- SQL
+- Git & GitHub
+- Noções de Python / DevOps / Automação
+
+---
+
+## 📚 Projetos & Estudos
+Aqui compartilho meus estudos e desafios em **ADVPL**:
+- Exercícios de lógica em ADVPL
+- Projetos práticos com Protheus
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuuri&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuuri&layout=compact&theme=dracula)
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/iuri-souza)  
+- ✉️ **E-mail:** iuri.souzasantos@gmail.com
+
+---
+⭐️ Feito com dedicação enquanto aprendo e pratico **ADVPL/Protheus**
