@@ -20,7 +20,7 @@ Aqui compartilho meus estudos e desafios em **ADVPL**:
 - Projetos práticos com Protheus  
 - Criação de funções, telas e rotinas de sistema  
 
-<div align="center">
+<div>
 
 [![Repositório ADVPL Estudos](https://github-readme-stats.vercel.app/api/pin/?username=iuuri&repo=PROTHEUS-ADVPL&theme=dracula)](https://github.com/iuuri/PROTHEUS-ADVPL)
 
@@ -29,7 +29,7 @@ Aqui compartilho meus estudos e desafios em **ADVPL**:
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuuri&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuuri&layout=compact&theme=dracula)
